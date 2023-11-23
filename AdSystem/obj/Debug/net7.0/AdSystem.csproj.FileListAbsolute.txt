@@ -37,3 +37,4 @@ C:\Users\pette\RiderProjects\AdSystem\AdSystem\bin\Debug\net7.0\runtimes\win-x64
 C:\Users\pette\RiderProjects\AdSystem\AdSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
 C:\Users\pette\RiderProjects\AdSystem\AdSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\pette\RiderProjects\AdSystem\AdSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pette\RiderProjects\AdSystem\AdSystem\obj\Debug\net7.0\AdSystem.sourcelink.json

@@ -1,12 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
-
-namespace AdSystem.Models;
+﻿namespace AdSystem.Models;
 
 public class AnnonsorModel
 {
-    [Key]
-    [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public int AnnonsorId { get; set; }
     public int? PrenumerantId { get; set; }
     public bool ForetagsAnnonsor { get; set; }
